@@ -1,0 +1,9 @@
+.title {
+  text-align: center;
+  margin: 10px 0;
+}
+
+.title img {
+  max-width: 500px;
+  width: 60%;
+}
