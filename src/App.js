@@ -45,7 +45,7 @@ export default class App extends Component {
     return (
       <>
         <div className={styles.title}>
-          <img src='/src/Assets/logo.png' alt='Rick and Morty' />
+          <img src='/assets/logo.png' alt='Rick and Morty' />
         </div>
         <Checkbox label='character' onClick={this.handleCheckboxClick} />
         <Checkbox label='location' onClick={this.handleCheckboxClick} />
